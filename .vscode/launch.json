@@ -1,0 +1,83 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch DecisionMakingCodeOne",
+            "request": "launch",
+            "mainClass": "DecisionMakingCodeOne",
+            "projectName": "Day02_Java_Saylee_dacc6606"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArithimaticOperator",
+            "request": "launch",
+            "mainClass": "ArithimaticOperator",
+            "projectName": "Day02_Java_Saylee_dacc6606"
+        },
+        {
+            "type": "java",
+            "name": "Launch TypeCasting",
+            "request": "launch",
+            "mainClass": "TypeCasting",
+            "projectName": "Day02_Java_Saylee_dacc6606"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringProgram",
+            "request": "launch",
+            "mainClass": "StringProgram",
+            "projectName": "Day02_Java_Saylee_dacc6606"
+        },
+        {
+            "type": "java",
+            "name": "Launch BoolUnicode",
+            "request": "launch",
+            "mainClass": "BoolUnicode",
+            "projectName": "Day02_Java_Saylee_dacc6606"
+        },
+        {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Java Program",
+            "request": "launch",
+            "mainClass": ""
+        },
+        {
+            "type": "java",
+            "name": "Attach to Remote Program",
+            "request": "attach",
+            "hostName": "<The host name or ip address of remote debuggee>",
+            "port": "<debug port of remote debuggee>"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Day02_Java_Saylee_dacc6606"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "Day02_Java_Saylee_dacc6606"
+        }
+    ]
+}
